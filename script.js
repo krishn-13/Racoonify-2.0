@@ -1,4 +1,46 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to Racoonify-2.0");
+let darkModeToggle = document
+.getElementById('darkModeToggle');
+let body = document
+.body;
+
+darkModeToggle
+.addEventListener('change', function ()
+{
+    if (darkModeToggle.checked) 
+    {
+        enableDarkMode();
+    } else {
+        disableDarkMode();
+    }
+});
+
+function enableDarkMode() {
+    body
+    .classList
+    .add('dark-mode');
+};
+
+function disableDarkMode()
+{
+    body
+    .classList
+    .remove('dark-mode');
+};
+
+
+function myFunction()
+ {
+    var x = document
+    .getElementById("myTopnav");
+    if (x.className === "navbar-lists")
+    {
+        x.className += " responsive";
+    } else {
+        x.className = "navbar-lists";
+    }
+};
+
 
 // Initialize the Variables
 let songIndex = 0;
