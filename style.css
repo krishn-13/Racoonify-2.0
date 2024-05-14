@@ -322,7 +322,7 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('../Racoonify/istockphoto-1154370446-2048x2048.jpg');
+   background-image: url('../Racoonify-2.0/istockphoto-1154370446-2048x2048.jpg');
   
 }
 .dark-mode .container{
@@ -399,7 +399,7 @@ nav ul li{
       background-color: darkolivegreen;
     }
     .container{
-        background-image: url("../Racoonify/playing.gif");
+        background-image: url("../Racoonify-2.0/playing.gif");
     }
     h1{
         border:2px solid white;
