@@ -50,7 +50,6 @@ Now this is an updated version of Racoonify, where we have added a new option of
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-
-
+**TASKS ASSIGNED :**
 ![image](https://github.com/krishn-13/Racoonify-2.0/assets/156744448/0bdf6a01-b7ea-43f5-82e7-9657c86ff665)
 
